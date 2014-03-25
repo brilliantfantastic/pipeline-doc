@@ -7,9 +7,10 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Jamie wright
-  avatar:         
+  name:           Jamie Wright
+  avatar:         http://www.gravatar.com/avatar/94d3675b2e2431b326b0de7aff01b742.png
   email:          jamie@brilliantfantastic.com
+  company:        Brilliant Fantastic
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jwright
   github:         jwright
@@ -34,10 +35,11 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Code
+    url: http://github.com/brilliantfantastic/pipeline
+    external: true
+  - title: Brilliant Fantastic
+    url: http://brilliantfantastic.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -64,4 +66,4 @@ kramdown:
     coderay_css: class
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "scss", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
