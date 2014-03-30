@@ -25,9 +25,10 @@ Pipeline is being built by [Jamie Wright](http://twitter.com/jwright) of [Brilli
 * Pipeline depends on you tracking your time dilegently each day
 * Pipeline will be open source and anyone will be able to run it on their own server if they choose to do so
 * Pipeline client will be built with [Ember](http://emberjs.com)
-* The Pipleline backend will be build with [rails-api](http://github.com/rails-api/rails-api)
+* The Pipeline backend will be build with [rails-api](http://github.com/rails-api/rails-api)
 * There will be a companion iOS application
-* I am not sure this will be useful but it sounds like it would for me
+* I am not sure this application will be useful but I will find out
+* The name will *most likely* change
 * I am sure more tidbits will come along when I start building it
 
 ## <a name="code"></a> Code
@@ -47,6 +48,7 @@ Subscribe to our newsletter and don't worry about checking back for updates. You
 * Early access to screen shots and designs
 * Early feature updates
 * Revenue information and stats after launch
+* Early invitation codes for a private beta launch
 * Discount code when the application launches
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
