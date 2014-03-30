@@ -3,7 +3,7 @@ layout: post
 title: In the Beginning...
 description: "Why do I want Pipeline and how did I get here."
 category: articles
-tags: [pipeline, technical, personal]
+tags: [pipeline, personal]
 image:
   feature: mario-beginning.jpg
   credit: Juan Camilo Bedoya Vargas
