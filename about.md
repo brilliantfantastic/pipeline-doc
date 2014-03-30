@@ -16,6 +16,8 @@ We all have a finite resource called time and we all want to use that time in th
 up your time for the upcoming week. As you progress through your week, Pipeline will send you reminders on how you are progressing on your expectations. Over time, 
 Pipeline will collect statistics on how well you are hitting your expectations. It will help you reach your goals.
 
+Pipeline is being built by [Jamie Wright](http://twitter.com/jwright) of [Brilliant Fantastic](http://brilliantfantastic.com).
+
 ## A few little tidbits
 
 * Pipeline will integrate with [Freshbooks](http://freshbooks.com) and [Harvest](http://getharvest.com) to record your time from those sources
@@ -28,9 +30,17 @@ Pipeline will collect statistics on how well you are hitting your expectations. 
 * I am not sure this will be useful but it sounds like it would for me
 * I am sure more tidbits will come along when I start building it
 
+## <a name="code"></a> Code
+
+[Pipeline Client (Ember)](https://github.com/brilliantfantastic/pipeline)
+
+[Pipeline API (Rails API)](https://github.com/brilliantfantastic/pipelin://github.com/brilliantfantastic/pipeline-api)
+
+[Pipeline Docs (Jekyll)](https://github.com/brilliantfantastic/pipeline-doc)
+
 <hr />
 
-## Subscribe to follow along
+## <a name="newsletter"></a> Subscribe to follow along
 
 Subscribe to our newsletter and don't worry about checking back for updates. You will get updates that contain the week's updates as well as:
 

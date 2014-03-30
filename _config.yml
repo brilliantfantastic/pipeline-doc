@@ -36,8 +36,7 @@ links:
   - title: Articles
     url: /articles/
   - title: Code
-    url: http://github.com/brilliantfantastic/pipeline
-    external: true
+    url: /about/#code
   - title: Brilliant Fantastic
     url: http://brilliantfantastic.com
     external: true
