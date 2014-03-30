@@ -1,19 +1,19 @@
 title:            Pipeline
 description:      A simple way to plan your week.
 logo:
-disqus_shortname: 
+disqus_shortname: pipeline-bf
 search:           true
 url:              http://localhost:4000
 
 # Owner/author information
 owner:
   name:           Jamie Wright
-  avatar:         http://www.gravatar.com/avatar/94d3675b2e2431b326b0de7aff01b742.png
+  avatar:         bio.jpg
   email:          jamie@brilliantfantastic.com
   company:        Brilliant Fantastic
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jwright
-  github:         jwright
+  github:         brilliantfantastic
   stackexchange:  
   linkedin:       
   instagram:      
