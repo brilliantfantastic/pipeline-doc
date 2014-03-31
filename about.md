@@ -31,14 +31,6 @@ Pipeline is being built by [Jamie Wright](http://twitter.com/jwright) of [Brilli
 * The name will *most likely* change
 * I am sure more tidbits will come along when I start building it
 
-## <a name="code"></a> Code
-
-[Pipeline Client (Ember)](https://github.com/brilliantfantastic/pipeline)
-
-[Pipeline API (Rails API)](https://github.com/brilliantfantastic/pipelin://github.com/brilliantfantastic/pipeline-api)
-
-[Pipeline Docs (Jekyll)](https://github.com/brilliantfantastic/pipeline-doc)
-
 <hr />
 
 ## <a name="newsletter"></a> Subscribe to follow along
