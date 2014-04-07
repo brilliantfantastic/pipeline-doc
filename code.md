@@ -12,6 +12,6 @@ Please feel free to check out the source or submit issues and pull requests.
 
 [Pipeline Client (Ember)](https://github.com/brilliantfantastic/pipeline)
 
-[Pipeline API (Rails API)](https://github.com/brilliantfantastic/pipelin://github.com/brilliantfantastic/pipeline-api)
+[Pipeline API (Rails API)](https://github.com/brilliantfantastic/pipeline-api)
 
 [Pipeline Docs (Jekyll)](https://github.com/brilliantfantastic/pipeline-doc)
